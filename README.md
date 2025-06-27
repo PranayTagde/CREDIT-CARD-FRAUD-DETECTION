@@ -61,5 +61,3 @@ All dependencies are listed in the `requirements.txt` file. Key libraries includ
 ```
 
 ## 📚 Reference
-
-- [Kaggle Dataset – Credit Card Fraud Detection](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
